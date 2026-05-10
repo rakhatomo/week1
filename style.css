@@ -1,53 +1,51 @@
 body {
-    font-family: Arial, sans-serif;
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    background-color: #a1b6c4;
-    text-align: center;
-  }
-  
-  h1 {
-    color: #e394;
-  }
-  
-  h2 {
-    color: #2980b9;
-  }
-  
-  p {
-    color: #555;
-    line-height: 1.6;
-  }
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: #a1b6c4;
+  text-align: center;
+}
 
-  h1 {
-    font-size: 36px;
-    margin-bottom: 4px;
-  }
-  
-  .tagline {
-    font-size: 18px;
-    color: #888;
-    margin-top: 0;
-  }
-  
-  .section {
-    background-color: white;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 16px;
-  }
 
-  .hidden {
-    display: none;
-  }
+h2 {
+  color: #2980b9;
+}
 
-  #introBlock {
-    margin-top: 12px;
-  }
+p {
+  color: #555;
+  line-height: 1.6;
+}
 
-  #introBlock button {
-    margin-top: 8px;
-    margin-left: 4px;
-    margin-right: 4px;
-  }
+h1 {
+  font-size: 36px;
+  margin-bottom: 4px;
+  color: #2c3e50;
+}
+
+.tagline {
+  font-size: 18px;
+  color: #888;
+  margin-top: 0;
+}
+
+.section {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.hidden {
+  display: none;
+}
+
+#introBlock {
+  margin-top: 12px;
+}
+
+#introBlock button {
+  margin-top: 8px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
