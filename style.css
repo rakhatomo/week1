@@ -4,6 +4,7 @@ body {
     margin: 0 auto;
     padding: 40px 20px;
     background-color: #a1b6c4;
+    text-align: center;
   }
   
   h1 {
@@ -35,4 +36,18 @@ body {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 16px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  #introBlock {
+    margin-top: 12px;
+  }
+
+  #introBlock button {
+    margin-top: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
   }
